@@ -1,0 +1,4 @@
+2026/01/31-22:11:06.720 1d64 Creating DB D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
+2026/01/31-22:11:06.766 1d64 Reusing MANIFEST D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/31-22:11:06.768 1d64 Recovering log #3
+2026/01/31-22:11:06.772 1d64 Reusing old log D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 

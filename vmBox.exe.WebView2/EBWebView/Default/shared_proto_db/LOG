@@ -1,0 +1,4 @@
+2026/01/31-22:11:06.671 2004 Creating DB D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\shared_proto_db since it was missing.
+2026/01/31-22:11:06.684 2004 Reusing MANIFEST D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/01/31-22:11:06.685 2004 Recovering log #3
+2026/01/31-22:11:06.685 2004 Reusing old log D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\shared_proto_db/000003.log 

@@ -1,0 +1,4 @@
+2026/01/31-22:11:06.623 3560 Creating DB D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\Site Characteristics Database since it was missing.
+2026/01/31-22:11:06.650 3560 Reusing MANIFEST D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/01/31-22:11:06.651 3560 Recovering log #3
+2026/01/31-22:11:06.652 3560 Reusing old log D:\编程\Visual\vmBox\bin\Release\net8.0-windows\vmBox.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log 
